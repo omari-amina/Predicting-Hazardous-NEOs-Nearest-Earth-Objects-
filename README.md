@@ -13,8 +13,11 @@ The dataset used for this project contains:
 - **Physical Characteristics**: Estimated diameter, absolute magnitude, and more.
 - **Close Approach Data**: Minimum orbit intersection distance (MOID), Earth close approach distance, and relative velocity.
 - **Target Variable**: `hazardous` (binary classification: 1 if hazardous, 0 if not)
+
+  
 download Dataset:
-  (https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data)
+
+  https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data
 
 ## Methodology
 
