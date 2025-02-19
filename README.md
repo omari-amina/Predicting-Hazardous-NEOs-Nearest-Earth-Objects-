@@ -44,7 +44,7 @@ The dataset used for this project contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Predicting-Hazardous-NEOs.git
+   git clone https://github.com/omari-amina/Predicting-Hazardous-NEOs-Nearest-Earth-Objects.git
    ```
 2. Install dependencies:
    ```bash
