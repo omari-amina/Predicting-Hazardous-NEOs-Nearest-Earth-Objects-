@@ -14,9 +14,8 @@ The dataset used for this project contains:
 - **Close Approach Data**: Minimum orbit intersection distance (MOID), Earth close approach distance, and relative velocity.
 - **Target Variable**: `hazardous` (binary classification: 1 if hazardous, 0 if not)
 download Dataset:
-```bash
- https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data
-```
+  (https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data)
+
 ## Methodology
 
 1. **Data Cleaning & Preprocessing**:
